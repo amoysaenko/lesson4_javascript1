@@ -4,20 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+July 17, 2017
 
 ### Student Name:  
-(First and Last Name)
+Ashley Moysaenko
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this lesson we used JavaScript to create a calculator on a website.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://amoysaenko.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. In JavaScript the order of the code makes a difference in if the function will work correctly. For example, the total amount had to be placed before the other percentage calculations for all of them to calculate properly.
+2. JavaScript code goes between the script elements in an HTML document.
+3. JavaScript is a loosely typed programming language, which means that you do not declare the datatypes of variables explicitly.
 
